@@ -1,5 +1,4 @@
 #include <stdio>
-
 /**
  * main - main function
  *
